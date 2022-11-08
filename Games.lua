@@ -6,7 +6,7 @@ local Games = {
         ["ID"] = {155615604}
     },
     [6152116144] = {
-        ["Version"] = {19230},
+        ["Version"] = {19233},
         ["ScriptLink"] = {""},
         ["Name"] = {"Project Slayers"},
         ["ID"] = {6152116144}
