@@ -3,7 +3,7 @@ local Games = {
         ["Version"] = 297;
         ["ScriptLink"] = "https://raw.githubusercontent.com/IAmSorrowful/Admin/main/Admin.lua";
     },
-    [5956785391] = {
+    [6152116144] = {
         ["Version"] = nil;
         ["ScriptLink"] = ""
     },
