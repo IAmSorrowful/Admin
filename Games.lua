@@ -1,9 +1,9 @@
 local Games = {
-    ["Project Slayers"] = {
+    ["GamesList"] = {
         ["Version"] = {19233},
         ["ScriptLink"] = {"https://raw.githubusercontent.com/IAmSorrowful/Admin/main/Project%20Slayers.lua"},
         ["Name"] = {"Project Slayers"},
-        ["ID"] = {6152116144,11468034852,6361937392}
+        ["ID"] = {6152116144,11468034852,6361937392,155615604}
     },
 }
 return Games;
