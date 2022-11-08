@@ -5,7 +5,7 @@ local Games = {
     ["PrisonLifeIDS"] = {
         ["ID"] = {155615604}
     },
-    ["Prison Life] = {
+    ["Prison Life"] = {
         ["Version"] = {297},
         ["ScriptLink"] = {"https://raw.githubusercontent.com/IAmSorrowful/Admin/main/Admin.lua"},
         ["Name"] = {"Prison Life"}
