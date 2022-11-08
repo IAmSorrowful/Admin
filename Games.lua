@@ -12,5 +12,10 @@ local Games = {
         ["ScriptLink"] = {"https://raw.githubusercontent.com/IAmSorrowful/Admin/main/Project%20Slayers.lua"},
         ["Name"] = {"Project Slayers"}
     },
+    [6361937392] = {
+        ["Version"] = {19233},
+        ["ScriptLink"] = {"https://raw.githubusercontent.com/IAmSorrowful/Admin/main/Project%20Slayers.lua"},
+        ["Name"] = {"Project Slayers"}
+    },
 }
 return Games;
