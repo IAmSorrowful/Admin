@@ -1,0 +1,2 @@
+local PlaceId = {}
+return PlaceId;
