@@ -1,2 +1,0 @@
-local PlaceId = {}
-return PlaceId;
